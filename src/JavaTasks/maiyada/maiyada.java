@@ -1,4 +1,4 @@
-package JavaTasks;
+package JavaTasks.maiyada;
 
 public class maiyada {
 
