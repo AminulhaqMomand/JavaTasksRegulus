@@ -1,4 +1,4 @@
-package JavaTasks.maiyada.week02_JavaTask;
+package JavaTasks.maiyadaTask.week02_JavaTask;
 
 public class ConsecutiveNumbers {
 

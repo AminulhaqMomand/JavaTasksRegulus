@@ -1,4 +1,4 @@
-package JavaTasks.maiyada.week01_JavaTask;
+package JavaTasks.maiyadaTask.week01_JavaTask;
 
 public class FINRA {
 
