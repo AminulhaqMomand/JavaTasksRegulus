@@ -1,4 +1,4 @@
-package JavaTasks.JoseTask.Week01;
+package JavaTasks.JoseTask.Java.Week01;
 
 import java.util.Scanner;
 
@@ -24,3 +24,6 @@ public class Task02 {
         System.out.println("With a Remainder of: " + remainder);
     }
 }
+/*
+1. Write a method that can divide two numbers without using division operator
+ */
