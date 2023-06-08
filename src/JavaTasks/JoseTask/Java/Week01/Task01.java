@@ -1,9 +1,11 @@
-package JavaTasks.JoseTask.Week01;
+package JavaTasks.JoseTask.Java.Week01;
 
 import java.util.Scanner;
 
 public class Task01 {
     public static void main(String[] args) {
+
+
         Scanner scanner = new Scanner(System.in);
 
         System.out.print("Enter a number: ");
@@ -17,3 +19,11 @@ public class Task01 {
 
     }
 }
+/*
+1. Write a method which can identifies given number is even or odd
+
+    EX:
+
+    identify(5) - > "Odd"
+    identify(6) - > "Even"
+ */

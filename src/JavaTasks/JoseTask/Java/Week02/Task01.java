@@ -1,4 +1,4 @@
-package JavaTasks.JoseTask.Week02;
+package JavaTasks.JoseTask.Java.Week02;
 
 import java.util.Scanner;
 
@@ -22,3 +22,6 @@ public class Task01 {
         System.out.println("After swapping:" + " x = " + x + ", y = " + y);
     }
 }
+/*
+1. Swap two variable values without using a third variable
+ */
