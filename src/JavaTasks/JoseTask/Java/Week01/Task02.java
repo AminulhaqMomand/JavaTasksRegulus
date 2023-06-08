@@ -1,4 +1,4 @@
-package JavaTasks.JoseTask.Week01;
+package JavaTasks.JoseTask.Java.Week01;
 
 import java.util.Scanner;
 
