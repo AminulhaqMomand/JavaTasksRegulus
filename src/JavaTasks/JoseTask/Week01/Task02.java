@@ -24,3 +24,6 @@ public class Task02 {
         System.out.println("With a Remainder of: " + remainder);
     }
 }
+/*
+1. Write a method that can divide two numbers without using division operator
+ */
