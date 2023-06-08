@@ -1,4 +1,4 @@
-package JavaTasks.JoseTask.Week02;
+package JavaTasks.JoseTask.Java.Week02;
 
 public class Task03 {
     public static void main(String[] args) {
